@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>sample page</title>
+<style>
+button{
+background- color: transparent ;
+border :1px solid navy;
+padding: 20px ;
+font-size: 1.4 ren;
+}
+button:hover {
+background-color:navy;
+border: none;
+color: white;
+}
+</style> 
+</head>
+<body> {
+ 
+<button>click me</button>
+</body>
+</html>
